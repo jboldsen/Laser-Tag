@@ -10,4 +10,8 @@
  */
 public class NewClass {
     
+    public void Hello(){
+        System.out.println("Hello Katka");
+    }
+    
 }
